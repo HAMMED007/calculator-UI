@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "591427131231",
+    "project_id": "calculator-bf2ea",
+    "storage_bucket": "calculator-bf2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591427131231:android:99b0b0176f8cbb837c08ea",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591427131231-5qslrhbkm4er464jvvldk2rj1o85skb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calculator",
+            "certificate_hash": "cd9c5e40c4eb768887ef68a3cae34c00f4e446d8"
+          }
+        },
+        {
+          "client_id": "591427131231-ukfaq1112anj3jklphq145pbc58pl35h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfcZc4bQT2f5sBp__p20MBqRIuTxdt3xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591427131231-ukfaq1112anj3jklphq145pbc58pl35h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591427131231-dhuj0bnsq1a6u4dgm38f58g9epvdg1c3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
